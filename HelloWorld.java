@@ -12,6 +12,7 @@ public class HelloWorld {
 
     public static void feature3() {
         System.out.println("New Feature-3");
+        System.out.println("New Feature-3 Commit 2");
     }
 
     public static void main(String[] args) {
