@@ -6,7 +6,13 @@ public class HelloWorld {
         System.out.println("New Feature-1 Commit 2");
     }
 
+    public static void feature2() {
+        System.out.println("New Feature-2");
+    }
+
     public static void main(String[] args) {
         System.out.println("Init commit");
+        System.out.println("Main-Bugfix");
+        System.out.println("Main-Bugfix 2 ");
     }
 }
